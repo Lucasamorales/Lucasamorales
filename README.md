@@ -20,7 +20,7 @@ I'm a passionate Data Scientist and Full Stack Developer specializing in bringin
 ### 🌱 I'm currently learning
 
 -   Fine-Tuning LLMs 
--   Algorithmic Thinking 
+-   Deep Learning 
 
 ### 📫 How to reach me:
 
