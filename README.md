@@ -16,6 +16,7 @@ I'm a passionate Data Scientist and Full Stack Developer specializing in bringin
 ### 🔭 I'm currently working on
 
 -   Enhancing automated systems for a startup using advanced NLP techniques.
+-   Documenting Python algorithms to teach and help others learn, with a focus on clear explanations and complexity analysis.
 
 ### 🌱 I'm currently learning
 
