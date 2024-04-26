@@ -4,7 +4,7 @@ Hi there, I'm Lucas Morales 👋
 
 ### 🌍 Based in Cordoba, Argentina 🇦🇷
 
-I'm a Data Scientist and Full Stack Developer specializing in bringing machine learning and AI to various industries. With my roots in consulting and development, I enjoy crafting innovative, data-driven solutions tailored to the unique needs of each project.I also really enjoy teaching and sharing my knowledge with others. Let’s connect and explore how we can work together!
+I'm a Data Scientist and Full Stack Developer specializing in bringing machine learning and AI to various industries. With my roots in consulting and development, I enjoy crafting innovative, data-driven solutions tailored to the unique needs of each project. I also really enjoy teaching and sharing my knowledge with others. Let’s connect and explore how we can work together!
 
 
 ## 💻 Tech Stack
