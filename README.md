@@ -53,8 +53,7 @@ I'm a Data Scientist and Full Stack Developer specializing in bringing machine l
 
 ### 🌱 I'm currently learning
 
--   Fine-Tuning LLMs 
--   Deep Learning 
+-   Fine-Tuning LLMs  
 
 ### 📫 How to reach me:
 
