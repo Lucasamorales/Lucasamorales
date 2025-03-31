@@ -1,11 +1,33 @@
-
 Hi there, I'm Lucas Morales 👋
 ------------------------------
 
-### 🌍 Based in Cordoba, Argentina 🇦🇷
+### 🌍 Based in Córdoba, Argentina 🇦🇷
 
-I'm a Data Scientist and Full Stack Developer specializing in bringing machine learning and AI to various industries. With my roots in consulting and development, I enjoy crafting innovative, data-driven solutions tailored to the unique needs of each project. I also really enjoy teaching and sharing my knowledge with others. Let’s connect and explore how we can work together!
+I'm an Ai Engineer and Full Stack Developer passionate about applying machine learning and AI to real-world challenges. With a strong background in consulting and development, I design and build smart, data-driven systems that make a tangible impact. I also enjoy mentoring and sharing my knowledge through open-source projects and technical documentation.
 
+Let’s connect and explore how we can work together!
+
+---
+
+## 💼 Professional Snapshot
+
+- **AI Engineer @ Pi Data Strategy & Consulting (2024–Present)**  
+  Building cutting-edge POC solutions using LLMs and Retrieval-Augmented Generation (RAG) architectures on Microsoft Azure.  
+  - Developed AI systems integrating Azure RAG with Purview for document-governed virtual assistants.  
+  - Led prompt engineering and fine-tuning of large language models for client-specific use cases.  
+  - Built a geo-verification system combining OpenAI search API and Perplexity AI to correct and suggest locations with web-based context.  
+  - Designed a secondary LLM to complement model orchestration in knowledge-intensive environments.
+
+- **Data Science Consultant @ Virtual Dev (2023–Present):**  
+  Fine-tuned Hugging Face models for intent classification and NER, deploying them in production pipelines.
+
+- **Full Stack Developer @ AdminSeg (2023):**  
+  Delivered complete backend/frontend software solutions for the insurance sector.
+
+- **Freelance AI & Data Science Consultant (2021–Present):**  
+  Delivered ML systems in fintech, security, automation, and content verification.
+
+---
 
 ## 💻 Tech Stack
 
@@ -46,16 +68,22 @@ I'm a Data Scientist and Full Stack Developer specializing in bringing machine l
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
 </p>
 
-### 🔭 I'm currently working on
 
--   Enhancing automated systems for a startup using advanced NLP techniques.
--   Documenting Python algorithms to teach and help others learn, with a focus on clear explanations and complexity analysis. check [Algorithmic library](https://github.com/Lucasamorales/Algorithms-)
 
-### 🌱 I'm currently learning
+## 🔭 Currently Working On
 
--   Fine-Tuning LLMs  
+- NLP-driven automation systems for startups  
+- Improving my [Algorithmic Library](https://github.com/Lucasamorales/Algorithms-) (on hold!) with new annotated examples and complexity insights  
 
-### 📫 How to reach me:
+---
 
--   Email: **<lucasamorales00@gmail.com>**
--   LinkedIn: [Visit my LinkedIn](https://www.linkedin.com/in/lucas-morales-37b1b9221/)
+## 🌱 Currently Learning
+
+- Agentic AI and autonomous agents  
+
+---
+
+## 📫 Reach Me
+
+- Email: **lucasamorales00@gmail.com**  
+- LinkedIn: [Lucas Morales](https://www.linkedin.com/in/lucas-morales-37b1b9221/)
