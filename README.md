@@ -79,11 +79,12 @@ Let’s connect and build something awesome together!
 
 ---
 
-## 📊 GitHub Stats
+
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lucasamorales&show_icons=true&theme=dark&count_private=true" alt="Lucas's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasamorales&layout=compact&theme=dark" alt="Top Languages" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=Lucasamorales&theme=dark" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lucasamorales&theme=github-dark" alt="Activity Graph" width="48%" />
 </p>
 
 ---
