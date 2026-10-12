@@ -1,46 +1,70 @@
-# Hi there, I'm Lucas Morales 👋
+# Lucas Morales
 
-### 🌍 Lead Full Stack AI Engineer | Based in Córdoba, Argentina 🇦🇷
+**Lead Full Stack AI Engineer · Córdoba, Argentina**
 
-I’m a Lead Full Stack AI Engineer and Data Scientist passionate about designing smart, data-driven systems and bringing cutting-edge AI solutions into production. With a strong track record spanning engineering leadership, cloud architectures (**GCP & Azure**), and generative AI, I bridge the gap between business objectives and scalable technical execution.
+I build AI systems end to end: agents, RAG assistants, and the full-stack applications and infrastructure around them. At Studio 34 I started the Development Area from scratch and lead it as its sole developer.
 
-I also love mentoring, conducting AI security and prompt engineering workshops, and sharing technical insights with the community.
-
-Let’s connect and build something awesome together!
+I also enjoy teaching. I taught algebra classes at university, and I run technical talks on AI implementation, security, and prompting techniques.
 
 ---
 
-## 💼 Professional Snapshot
+## Current Work at Studio 34
 
-- **Lead Full Stack AI Engineer @ Studio 34 (Apr 2025 – Present)**  
-  Leading the Development Area for a marketing agency, driving application architecture, project roadmaps, and technical strategy.  
-  - Managing a team of developers and overseeing end-to-end software lifecycles.  
-  - Engineering full-stack applications and automations using **Go**, **TypeScript**, and **Vue.js** on **Google Cloud Platform (GCP)**.  
-  - Conducting client strategy sessions, technical workshops, and talks on AI implementation, security, and prompt engineering.  
-  - Performing geo-audits and generative search intelligence evaluations to optimize client ranking across AI landscapes.
+**Lead Full Stack AI Engineer (Apr 2025 – Present)**
 
-- **AI Engineer @ Pi Data Strategy & Consulting (Jun 2024 – Apr 2025)**  
-  - Built enterprise proof-of-concept (POC) solutions using LLMs and Retrieval-Augmented Generation (**RAG**) on **Microsoft Azure**.  
-  - Integrated Azure RAG with Azure Purview to deploy document-governed, contextual virtual assistants.  
-  - Designed a secondary LLM filtering framework achieving **85% response correctness** in recommendation engines.  
+Leading the Development Area for a marketing agency: application architecture, project roadmaps, and technical strategy. Most of this work lives in private repositories.
+
+- **Internal AI Assistant (Matty):** A modular assistant for Google Chat built on Anthropic's Claude. It works in Asana through the Model Context Protocol (MCP) and requires human approval before any change. Deployed on Cloud Run with Firestore.
+- **Invoice Portal:** An internal web application, in production, where contractors generate and submit their monthly invoices. Built with FastAPI and PostgreSQL on Cloud Run behind Identity-Aware Proxy, with encrypted bank details and Terraform-managed infrastructure.
+- **RAG Scoping Assistant:** A client-facing assistant built with FastAPI and Gemini that determines whether a request is within scope. Verdicts are resolved by deterministic code rather than the LLM, and retrieval quality is measured with evaluation harnesses.
+- **Operations Dashboard:** A Next.js and TypeScript dashboard, fed by a scheduled collector on Cloud Run, that monitors the status, errors, and costs of the agency's Google Cloud projects and repositories.
+- **Automations:** Review replies with human approval, lead triage, email-marketing reporting, and Google Workspace bots for kudos, out-of-office queries, and leave booking.
+- **Search Intelligence:** Geo-audits and generative search evaluations that show clients how they are found and ranked across AI search.
+
+---
+
+## Open Projects
+
+- **[TEMI](https://github.com/Lucasamorales/TEMI):** A real-time voice translation app, built as an MVP. Two people speak their own languages and hear each other translated. Go backend streaming speech-to-text, LLM translation, and text-to-speech over WebSockets, with a Flutter mobile app and Terraform-managed infrastructure on GCP.
+- **[volley-stats](https://github.com/Lucasamorales/volley-stats):** Per-player volleyball statistics from amateur tripod video. Models track the ball, players, and poses and propose every touch, and a person confirms the uncertain ones. An early prototype.
+
+---
+
+## Tech Stack
+
+| Area | Tools |
+|---|---|
+| Languages | Python, TypeScript, JavaScript, Go, Dart |
+| AI | Claude, Gemini, OpenAI, RAG, agents, MCP, evaluation harnesses, transformer fine-tuning, computer vision |
+| Backend and frontend | FastAPI, Node.js, Next.js, React, Vue, HTMX, Flutter |
+| Cloud and infrastructure | Google Cloud (Cloud Run, Firestore, IAP, KMS), Azure, Terraform, Docker, GitHub Actions |
+
+---
+
+## Previous Experience
+
+- **AI Engineer @ Pi Data Strategy & Consulting (Jun 2024 – Apr 2025)**
+  - Built enterprise proof-of-concept (POC) solutions using LLMs and Retrieval-Augmented Generation (RAG) on Microsoft Azure.
+  - Integrated Azure RAG with Azure Purview to deploy document-governed, contextual virtual assistants.
+  - Designed a secondary LLM filtering framework achieving 85% response correctness in recommendations.
   - Developed database normalization pipelines combining OpenAI Search and Perplexity AI for location verification.
 
-- **Data Science Consultant @ Virtual Dev (Dec 2023 – Jun 2024)**  
-  - Fine-tuned transformer models for Intent Classification and Named Entity Recognition (**NER**).  
-  - Orchestrated automated production pipelines to extract structured insights from unstructured text.
+- **Data Science Consultant @ Virtual Dev (Dec 2023 – Jun 2024)**
+  - Fine-tuned transformer models for Intent Classification and Named Entity Recognition (NER).
+  - Orchestrated a production pipeline to integrate the models into automated systems.
 
-- **Full Stack Developer @ AdminSeg (Sep 2023 – Dec 2023)**  
-  - Delivered comprehensive full-stack software tailored for insurance sector workflows.
+- **Full Stack Developer @ AdminSeg (Sep 2023 – Dec 2023)**
+  - Developed full-stack software for insurance companies.
 
-- **AI & Data Science Consultant @ Freelance (2021 – 2023)**  
-  - Engineered biometric security systems (2FA using keystroke dynamics), financial loan default prediction models, inventory automations, and WhatsApp customer bots.
+- **AI & Data Science Consultant @ Freelance (2021 – 2023)**
+  - Built a two-factor authentication system using keystroke dynamics, a loan default prediction model, inventory automations, and WhatsApp customer service bots.
 
-- **Full Stack Developer @ Quote (2020 – 2021)**  
-  - Maintained e-commerce architecture, managed database migrations, and maintained inventory control engines.
+- **Full Stack Developer @ Quote (2020 – 2021)**
+  - Maintained an e-commerce platform, including inventory control and database migrations.
 
+---
 
-
-## 📊 GitHub Activity
+## GitHub Activity
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Lucasamorales&theme=dark" alt="GitHub Streak" width="48%" />
@@ -49,22 +73,7 @@ Let’s connect and build something awesome together!
 
 ---
 
-## 🔭 Currently Working On
-
-- Full-stack AI applications and web automations powered by **Go**, **Vue.js**, and **GCP Enterprise**.
-- Generative search intelligence and geo-ranking audits for digital brands.
-- Expanding my [Algorithmic Library](https://github.com/Lucasamorales/Algorithms-) with high-level code explanations and time/space complexity analysis.
-
----
-
-## 🌱 Currently Learning
-
-- Advanced Autonomous Agents & Multi-Agent Systems.
-- Production-grade GCP Enterprise Architecture.
-
----
-
-## 📫 Reach Me
+## Reach Me
 
 <p align="left">
   <a href="mailto:lucasamorales00@gmail.com"><img src="https://img.shields.io/badge/Email-lucasamorales00%40gmail.com-c14438?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
