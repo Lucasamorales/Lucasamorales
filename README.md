@@ -62,16 +62,6 @@ Leading the Development Area for a marketing agency: application architecture, p
 - **Full Stack Developer @ Quote (2020 – 2021)**
   - Maintained an e-commerce platform, including inventory control and database migrations.
 
----
-
-## GitHub Activity
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Lucasamorales&theme=dark" alt="GitHub Streak" width="48%" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lucasamorales&theme=github-dark" alt="Activity Graph" width="48%" />
-</p>
-
----
 
 ## Reach Me
 
